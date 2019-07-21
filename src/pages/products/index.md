@@ -1,7 +1,6 @@
 ---
-templateKey: 'product-page'
-path: /products
-title: Our Coffee
+templateKey: product-page
+title: I got products
 image: /img/jumbotron.jpg
 heading: Great coffee with a conscience
 description: >-
@@ -98,4 +97,10 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '??'
+    - description: So you know it's good
+      items:
+        - '* what items go here?'
+      plan: My plan is the best
+      price: It's free
 ---
+
